@@ -1,0 +1,6 @@
+[ 2017-11-10T15:58:17+08:00 ] ::1 /rbactest/Public/Admin/images/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载模块:Public
+

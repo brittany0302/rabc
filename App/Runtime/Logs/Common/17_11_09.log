@@ -1,0 +1,12 @@
+[ 2017-11-09T11:09:11+08:00 ] ::1 /rbactest/Public/Admin/images/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Public
+
+[ 2017-11-09T16:39:49+08:00 ] ::1 /rbactest/Public/Admin/images/main/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+ERR: 无法加载模块:Public
+
